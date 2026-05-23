@@ -86,10 +86,7 @@ Menandakan bahwa proses pelayanan sedang berlangsung.
 ## Link Project
 
 ### Wokwi Simulation
-(Tambahkan link Wokwi di sini)
-
-### GitHub Repository
-(Tambahkan link GitHub di sini)
+https://wokwi.com/projects/464802990539354113
 
 ---
 
